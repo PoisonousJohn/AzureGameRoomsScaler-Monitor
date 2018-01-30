@@ -1,2 +1,2 @@
 # AzureGameRoomsScaler-Monitor
-It's a demo app which monitors Minecraft servers from AzureGameRoomsScaler-MinecraftSample repo and scales them correspondingly
+It's a demo app which monitors nodes created by AzureGameRoomsScaler scales them based on CPU & Mem metrics 
